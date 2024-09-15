@@ -25,3 +25,9 @@ text-decoration: none;
 color: mediumpurple;
 transition: 0.5s;
 }
+.btn{
+    text-decoration: none;
+    color: violet;
+    font-weight: bold;
+    border: 2px solid mediumslateblue;
+}
