@@ -23,5 +23,5 @@ text-decoration: none;
 
 .main-menu a:hover{
 color: mediumpurple;
-
+transition: 0.5s;
 }
