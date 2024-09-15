@@ -30,4 +30,7 @@ transition: 0.5s;
     color: violet;
     font-weight: bold;
     border: 2px solid mediumslateblue;
+    padding: 10px;
+    border-radius: 5px;
+    
 }
