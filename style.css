@@ -19,5 +19,9 @@ padding: 20px 0;
 .main-menu a{/*применение для всех а, входящих в класс main-menu*/
 color: azure;
 text-decoration: none;
+}
+
+.main-menu a:hover{
+color: mediumpurple;
 
 }
