@@ -6,7 +6,7 @@ font-family: 'Roboto', sans-serif;
     background-image: url(../.images/background.jpg);
 background-size: cover;
 color: azure;
-background-color: rgb(137, 43, 226);
+background-color: blueviolet;
 }
 .name {
 text-transform: uppercase;
